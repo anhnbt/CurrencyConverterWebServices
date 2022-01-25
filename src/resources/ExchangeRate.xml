@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <cap>
+        <from>USD</from>
+        <to>VND</to>
+        <rate>22635.00</rate>
+    </cap>
+    <cap>
+        <from>USD</from>
+        <to>EUR</to>
+        <rate>0.89</rate>
+    </cap>
+    <cap>
+        <from>USD</from>
+        <to>THB</to>
+        <rate>33.07</rate>
+    </cap>
+    <cap>
+        <from>VND</from>
+        <to>USD</to>
+        <rate>0.000044</rate>
+    </cap>
+    <cap>
+        <from>VND</from>
+        <to>EUR</to>
+        <rate>0.000039</rate>
+    </cap>
+    <cap>
+        <from>VND</from>
+        <to>THB</to>
+        <rate>0.0015</rate>
+    </cap>
+    <cap>
+        <from>EUR</from>
+        <to>VND</to>
+        <rate>25538.03</rate>
+    </cap>
+    <cap>
+        <from>EUR</from>
+        <to>USD</to>
+        <rate>1.13</rate>
+    </cap>
+    <cap>
+        <from>EUR</from>
+        <to>THB</to>
+        <rate>37.30</rate>
+    </cap>
+    <cap>
+        <from>THB</from>
+        <to>USD</to>
+        <rate>0.030</rate>
+    </cap>
+    <cap>
+        <from>THB</from>
+        <to>EUR</to>
+        <rate>0.027</rate>
+    </cap>
+    <cap>
+        <from>THB</from>
+        <to>VND</to>
+        <rate>684.41</rate>
+    </cap>
+</root>
